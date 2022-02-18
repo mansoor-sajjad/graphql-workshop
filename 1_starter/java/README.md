@@ -11,6 +11,6 @@ This starter uses:
 ## Points of interest
 
 - [application.yml](/1_starter/java//src/main/resources/application.yml)
-  - coniguration of graphql servlet and graphiql console
+  - configuration of graphql servlet and graphiql console
 - [schema.graphqls](/1_starter/java//src/main/resources/schema.graphqls)
   - GraphQL schema definition
